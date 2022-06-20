@@ -18,4 +18,4 @@ Roster class
   
   ---------------------------------
 
-The main function demonstrates the program's ability to use its functions, and outputs data in a legible format.
+The main purpose of the application is to show the programs ability to use its functions, and output data in a legible format.
