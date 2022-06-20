@@ -1,6 +1,7 @@
 STUDENT RECORDS MANAGER 1.0
 
 This application is built around parsing and manipulating data from an input string, and storing them in objects.
+
 -----------------------------------
 
 There are 2 classes in the project-
