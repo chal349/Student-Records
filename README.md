@@ -12,10 +12,10 @@ Student class
 * Functions that return data, as well as modify data
 
 Roster class
-  -Parses data from a string
-  -Creates an array of pointers to Student objects
-  -Modifies data in the Student objects
-  -Ability to make calculations using Student object's data members and output results
+* Parses data from a string
+* Creates an array of pointers to Student objects
+* Modifies data in the Student objects
+* Ability to make calculations using Student object's data members and output results
   
 ---------------------------------
 
