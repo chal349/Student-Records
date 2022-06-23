@@ -20,3 +20,5 @@ Roster class
 ---------------------------------
 
 The main purpose of the application is to show the programs ability to use its functions, and output data in a legible format.
+
+![Screen Shot 2021-02-24 at 3 55 57 PM (2)](https://user-images.githubusercontent.com/79333726/175373494-b92b482f-d894-4b2e-a5fc-66f122f0729c.png)
